@@ -39,7 +39,7 @@
 
 ## 🏗️ Mimari
 
-PostForge modern, ölçeklenebilir üç katmanlı mimariye sahiptir:
+SmartTweet modern, ölçeklenebilir üç katmanlı mimariye sahiptir:
 
 ```text
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
